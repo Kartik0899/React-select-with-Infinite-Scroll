@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap");
+
+.App {
+  font-family: Poppins, sans-serif;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+.h1 {
+  background: linear-gradient(to right, #ff9068, #ff4b1f);
+}
+.Glass1 {
+  -webkit-backdrop-filter: blur(20px);
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  overflow-y: scroll;
+  height: 400px;
+}
+.Select {
+  color: #6dd5ed;
+  border-radius: 12px;
+}
+.Select1 {
+  color: #6dd5ed;
+  border-radius: 12px;
+  top: 10px;
+}
+.box {
+  display: flex;
+}
+.book {
+  color: black;
+}
