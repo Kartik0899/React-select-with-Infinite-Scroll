@@ -2,7 +2,7 @@
 
 Step-1 - Open your project directory and install react-select and axios.
 
-Step-2 - Open your app.js file. We will be using function component so first.
+Step-2 - Open your app.js file. We will be using function component.
 ![carbon (1)](https://user-images.githubusercontent.com/72159742/120618449-b8c57500-c478-11eb-9b75-062a57490ae8.png)
 
 Step-3 - Let us create a function that will handle our selected value. Create a function with the name handleChange and take e as a parameter and after that change the value of id and name using the hook useState().
